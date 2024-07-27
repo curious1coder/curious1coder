@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @curious1coder 
 - 👀 I’m interested in learning about how code works
-- 🌱 I’m currently learning c
+- 🌱 I’m currently working on wed-dev
 - 💞️ I’m looking to help and get help from the community
-- 📫 available on github 
+- 📫 available on GitHub 
 
 <!---
 curious1coder/curious1coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
