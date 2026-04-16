@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @curious1coder 
 - 👀 I’m interested in learning about how code works
-- 🌱 I’m currently working on wed-dev
+- 🌱 I’m currently working on web-dev
 - 💞️ I’m looking to help and get help from the community
 - 📫 available on GitHub 
 
